@@ -1,4 +1,4 @@
-package com.springmvc.form;
+package com.springmvc.form.domain;
 
 import lombok.Data;
 
